@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Plus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Edge
+  - Background Celestials
+  - Player
+  - Camera
+  - Canvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Celestials
+    uniqueID: 2715603413
+    locked: 0
+  - name: Foreground Celestials
+    uniqueID: 1385715553
+    locked: 0
+  - name: Edge
+    uniqueID: 258811729
+    locked: 0
+  - name: Portal
+    uniqueID: 2950002791
+    locked: 0
