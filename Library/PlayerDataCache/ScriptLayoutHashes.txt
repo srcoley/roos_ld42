@@ -1,6 +1,6 @@
-WindowsStandalone
+OSXStandalone
 PlayerPath?
-/Users/stephencoley/Dropbox/roos/ROoS_Win_LD42_01/ROoS_Win_LD42_01.exe
+/Users/stephencoley/Dropbox/roos/ROoS_Mac_LD42_0.2.app
 SceneListBegin?
 Assets/Scenes/Scene01.unity
 Assets/Scenes/Scene02.unity
@@ -146,7 +146,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
-466bfd6769d01a01eeb7aabfe4590b73 Assembly-CSharp.dll:.Game
+81d5e5b2718741124ea0d7cb1aec5e96 Assembly-CSharp.dll:.Game
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 f02726adeff0a3ec5905565234b372da UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender

@@ -406,7 +406,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &269061979
 Animator:
   serializedVersion: 3
@@ -707,7 +707,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &681232149
 Animator:
   serializedVersion: 3
@@ -926,7 +926,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &896035622
 Animator:
   serializedVersion: 3
@@ -1507,7 +1507,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1147544843
 Animator:
   serializedVersion: 3
@@ -1634,7 +1634,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1316232115
 Animator:
   serializedVersion: 3
@@ -1818,7 +1818,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1443861863
 Animator:
   serializedVersion: 3
@@ -1996,7 +1996,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!114 &1633204435
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2067,7 +2067,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1642530274
 Animator:
   serializedVersion: 3
@@ -2301,7 +2301,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1692586160
 Animator:
   serializedVersion: 3
@@ -2479,7 +2479,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1905537756
 Animator:
   serializedVersion: 3
@@ -2916,7 +2916,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &2073478751
 Animator:
   serializedVersion: 3

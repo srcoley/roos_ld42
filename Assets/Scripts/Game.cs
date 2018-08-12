@@ -9,9 +9,16 @@ public class Game : MonoBehaviour {
 
   public AudioClip intro;
   public AudioClip loop;
+  public AudioClip spacePickup;
+  public AudioClip wormhole;
+  public AudioClip edgeHit;
+  public AudioClip fallDeath;
   public AudioSource introSource;
   public AudioSource loopSource;
   public AudioSource spacePickupSource;
+  public AudioSource wormholeSource;
+  public AudioSource edgeHitSource;
+  public AudioSource fallDeathSource;
 
   int currentLevel = 1;
   bool audioLooping = false;
@@ -45,12 +52,21 @@ public class Game : MonoBehaviour {
   }
 
   public static void FinishLevel() {
+    control.wormholeSource.PlayOneShot(control.wormhole);
     control.currentLevel += 1;
     control.StartCoroutine("FinishLevelCoroutine");
   }
 
+  public static void PlayFallDeath() {
+    control.fallDeathSource.PlayOneShot(control.fallDeath);
+  }
+
+  public static void PlayEdgeHit() {
+    control.edgeHitSource.PlayOneShot(control.edgeHit);
+  }
+
   public static void PlaySpacePickup() {
-    control.spacePickupSource.Play();
+    control.spacePickupSource.PlayOneShot(control.spacePickup);
   }
 
   IEnumerator RestartLevelCoroutine() {

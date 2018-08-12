@@ -50,8 +50,10 @@ public class Player : MonoBehaviour {
   void Update() {
 
     if( !dying && ( dead || (!dead && transform.position.y < -80) ) ) {
+      if( transform.position.y < -80 ) {
+        Game.PlayFallDeath();
+      }
       dying = true;
-      Debug.Log("dead");
       Game.RestartLevel();
     }
 
@@ -122,6 +124,7 @@ public class Player : MonoBehaviour {
 
     if( other.gameObject.name == "Edge" ) {
       dead = true;
+      Game.PlayEdgeHit();
     }
 
     if( other.gameObject.tag == "Platform" && !grounded ) {

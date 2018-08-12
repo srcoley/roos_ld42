@@ -1147,7 +1147,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &408287198
 Animator:
   serializedVersion: 3
@@ -2781,7 +2781,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1448291262
 Animator:
   serializedVersion: 3
@@ -2964,7 +2964,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!114 &1633204435
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3264,7 +3264,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1796832734
 Animator:
   serializedVersion: 3
@@ -3486,7 +3486,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.5, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!95 &1903834451
 Animator:
   serializedVersion: 3
